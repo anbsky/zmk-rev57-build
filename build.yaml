@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: "nice_nano_v2"
-    shield: rev57lp
   - board: nice_nano_v2
-    shield: settings_reset
+    shield: rev57lp
+  # - board: nice_nano_v2
+  #   shield: settings_reset
